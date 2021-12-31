@@ -25,4 +25,4 @@ All used icons are available at: https://www.webfx.com/tools/emoji-cheat-sheet/
 
 <h2>More about me today</h2>
 
-- 🌱 I’m currently learning [Three.js](https://threejs.org/)
+- 🌱 I’m currently learning [Three.js](https://threejs.org/) and [Flutter](https://flutter.dev/)
