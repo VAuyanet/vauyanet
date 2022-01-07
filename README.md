@@ -20,7 +20,7 @@ All used icons are available at: https://www.webfx.com/tools/emoji-cheat-sheet/
 <h1 align="center">Hi there, I'm Victor 👋</h1>
 
 <p>
-  You found me! <br /> Let me present, I'm a Web developer with experience in Next.js and Drupal, always trying to create websites as more clean and optimized as it can possible be.
+  You found me! <br /> Let me present myself, I'm a Web developer with experience in Next.js and Drupal, always trying to create websites clean and optimized as it can possibly be.
 </p>
 
 <h2>More about me today</h2>
